@@ -1,0 +1,10 @@
+fetch -> https://youtu.be/Oive66jrwBs
+
+fetch(url,function)
+fetch('https://.....')
+    .then(res => res.json())
+    .then(data =>{
+        //method to use or pattern to use.
+    })
+
+    here res is respond which is save in res.json. and now the data will be used as required by defing the function.
